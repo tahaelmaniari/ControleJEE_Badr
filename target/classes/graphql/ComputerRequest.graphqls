@@ -1,0 +1,6 @@
+input ComputerRequest
+{
+    processeur : String
+    ram : Int
+    hardDrive : String
+}

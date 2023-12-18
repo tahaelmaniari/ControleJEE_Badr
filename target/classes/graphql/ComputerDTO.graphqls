@@ -1,0 +1,6 @@
+type ComputerDTO
+{
+    processeur : String
+    ram : Int
+    hardDrive : String
+}
